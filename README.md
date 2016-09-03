@@ -8,7 +8,7 @@
 
 3. Create the folder ``~/.platformio/boards`` if it doesn't exist
 
-4. Paste the file ``aquila_boards.json`` inside `~/.platformio/boards/``
+4. Paste the file ``aquila_boards.json`` inside ``~/.platformio/boards/``
 
 5. Paste the ``altair`` folder in ``~/.platformio/packages/framework-arduinoavr/variants/``
 

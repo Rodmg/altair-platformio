@@ -1,6 +1,8 @@
 # Altair Development Board support for PlatformIO
 
-## Installing
+**Update - November 19 2016:** The instructions on this repository are no longer needed as the Altair board is now officially supported on PlatformIO!
+
+## Installing **(No longer needed, keeping for the record...)**
 
 1. Clone or download this repository
 
